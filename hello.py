@@ -1,1 +1,1 @@
-test remote push by many people
+remote merge success
